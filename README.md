@@ -18,13 +18,10 @@ Here are some ideas to get you started:
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://codeforces.com/profile/your_username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" height="30" alt="Codeforces" />
-  </a>
   <a href="https://www.linkedin.com/in/ebenezer-seyoum" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/your_username" target="_blank">
+  <a href="https://leetcode.com/Ebenezer-seyoum" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode" />
   </a>
 </p>
